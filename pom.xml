@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.mwttg</groupId>
+    <artifactId>math-lib</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <name>mathematics library</name>
+    <description>a library for mathematics used for game development</description>
+    <inceptionYear>2024</inceptionYear>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <url>https://github.com/mwttg-games/pixel-artillery-2d</url>
+    <organization>
+        <name>private</name>
+        <url>https://github.com/mwttg-games</url>
+    </organization>
+    <developers>
+        <developer>
+            <id>mwttg</id>
+            <email>marco-wittig@gmx.de</email>
+        </developer>
+    </developers>
+
+</project>
